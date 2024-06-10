@@ -1,20 +1,5 @@
-# .cpanel.yml
 ---
 deployment:
   tasks:
-    - export DEPLOY_PATH=/home/epacoigr/public_html
-
-    # Task 1: Install dependencies
-    - /opt/cpanel/composer/bin/composer install --no-dev --optimize-autoloader --working-dir=$DEPLOY_PATH
-
-    # Task 2: Set file permissions
-    - find $DEPLOY_PATH -type d -exec chmod 755 {} \;
-    - find $DEPLOY_PATH -type f -exec chmod 644 {} \;
-
-    # Task 3: Run database migrations (if applicable)
-    - php $DEPLOY_PATH/artisan migrate --force
-
-    # Task 4: Clear and cache configurations
-    - php $DEPLOY_PATH/artisan config:cache
-    - php $DEPLOY_PATH/artisan route:cache
-    - php $DEPLOY_PATH/artisan view:cache
+    - export DEPLOYPATH=/home/epacoigr/public_html/
+    - /bin/cp -R * $DEPLOYPATH
