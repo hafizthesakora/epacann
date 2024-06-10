@@ -2,7 +2,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOY_PATH=/home/Epacannsavings/public_html
+    - export DEPLOY_PATH=/home/epacoigr/public_html
 
     # Task 1: Install dependencies
     - /opt/cpanel/composer/bin/composer install --no-dev --optimize-autoloader --working-dir=$DEPLOY_PATH
