@@ -1,37 +1,5 @@
-# ---
-# deployment:
-#   tasks:
-#     - export DEPLOYPATH=/home/epacoigr/public_html/
-#     - /bin/cp -R * $DEPLOYPATH
-
 ---
 deployment:
   tasks:
-    - export DEPLOY_PATH=/home/$USER/public_html/epacann
-    - echo "Deploying to $DEPLOY_PATH"
-
-    # Task 1: Install dependencies
-    - echo "Installing dependencies"
-    - /opt/cpanel/composer/bin/composer install --no-dev --optimize-autoloader --working-dir=$DEPLOY_PATH
-    - echo "Dependencies installed"
-
-    # Task 2: Set file permissions
-    - echo "Setting file permissions"
-    - find $DEPLOY_PATH -type d -exec chmod 755 {} \;
-    - find $DEPLOY_PATH -type f -exec chmod 644 {} \;
-    - chmod 644 $DEPLOY_PATH/.htaccess
-    - echo "File permissions set"
-
-    # Task 3: Run database migrations (if applicable)
-    - echo "Running database migrations"
-    - php $DEPLOY_PATH/artisan migrate --force
-    - echo "Database migrations completed"
-
-    # Task 4: Clear and cache configurations
-    - echo "Clearing and caching configurations"
-    - php $DEPLOY_PATH/artisan config:cache
-    - php $DEPLOY_PATH/artisan route:cache
-    - php $DEPLOY_PATH/artisan view:cache
-    - echo "Configurations cached"
-
-    - echo "Deployment completed"
+    - export DEPLOYPATH=/home/epacoigr/public_html/
+    - /bin/cp -R * $DEPLOYPATH
