@@ -1,0 +1,478 @@
+[17-Dec-2018 09:56:18 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 63
+[17-Dec-2018 10:27:24 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 63
+[17-Dec-2018 11:50:40 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 63
+[17-Dec-2018 12:09:43 UTC] PHP Parse error:  syntax error, unexpected '$check' (T_VARIABLE) in /home/rayaztechnew/public_html/project/finance/application/views/admin/include/header.php on line 1
+[17-Dec-2018 12:10:04 UTC] PHP Parse error:  syntax error, unexpected '$check' (T_VARIABLE) in /home/rayaztechnew/public_html/project/finance/application/views/admin/include/header.php on line 1
+[17-Dec-2018 12:11:58 UTC] PHP Parse error:  syntax error, unexpected '$check' (T_VARIABLE) in /home/rayaztechnew/public_html/project/finance/application/views/admin/include/header.php on line 1
+[17-Dec-2018 12:39:10 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 63
+[17-Dec-2018 12:44:00 UTC] PHP Parse error:  syntax error, unexpected '$check' (T_VARIABLE) in /home/rayaztechnew/public_html/project/finance/application/views/admin/include/header.php on line 1
+[17-Dec-2018 12:44:34 UTC] PHP Parse error:  syntax error, unexpected '$check' (T_VARIABLE) in /home/rayaztechnew/public_html/project/finance/application/views/admin/include/header.php on line 1
+[17-Dec-2018 12:45:02 UTC] PHP Parse error:  syntax error, unexpected '$check' (T_VARIABLE) in /home/rayaztechnew/public_html/project/finance/application/views/admin/include/header.php on line 1
+[17-Dec-2018 12:45:07 UTC] PHP Parse error:  syntax error, unexpected '$check' (T_VARIABLE) in /home/rayaztechnew/public_html/project/finance/application/views/admin/include/header.php on line 1
+[18-Dec-2018 05:01:07 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 63
+[18-Dec-2018 05:12:44 UTC] PHP Parse error:  syntax error, unexpected '$check' (T_VARIABLE) in /home/rayaztechnew/public_html/project/finance/application/views/admin/include/header.php on line 1
+[18-Dec-2018 05:14:43 UTC] PHP Parse error:  syntax error, unexpected '$check' (T_VARIABLE) in /home/rayaztechnew/public_html/project/finance/application/views/admin/include/header.php on line 1
+[18-Dec-2018 05:14:57 UTC] PHP Parse error:  syntax error, unexpected '$check' (T_VARIABLE) in /home/rayaztechnew/public_html/project/finance/application/views/admin/include/header.php on line 1
+[21-Dec-2018 05:52:40 UTC] PHP Fatal error:  Call to undefined function activate_menu() in /home/rayaztechnew/public_html/project/finance/application/views/admin/include/header.php on line 45
+[24-Dec-2018 06:39:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 414
+[24-Dec-2018 06:39:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 414
+[24-Dec-2018 06:39:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 414
+[24-Dec-2018 10:57:13 UTC] PHP Parse error:  syntax error, unexpected '$check' (T_VARIABLE) in /home/rayaztechnew/public_html/project/finance/application/views/admin/include/sidebar.php on line 1
+[24-Dec-2018 10:57:17 UTC] PHP Parse error:  syntax error, unexpected '$check' (T_VARIABLE) in /home/rayaztechnew/public_html/project/finance/application/views/admin/include/sidebar.php on line 1
+[26-Dec-2018 07:26:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/party_display.php on line 148
+[26-Dec-2018 07:29:15 UTC] PHP Fatal error:  Call to a member function counter() on null in /home/rayaztechnew/public_html/project/finance/application/views/admin/party_display.php on line 79
+[26-Dec-2018 07:29:47 UTC] PHP Fatal error:  Call to a member function counter() on null in /home/rayaztechnew/public_html/project/finance/application/views/admin/party_display.php on line 79
+[26-Dec-2018 07:34:43 UTC] PHP Fatal error:  Call to a member function counter() on null in /home/rayaztechnew/public_html/project/finance/application/views/admin/party_display.php on line 79
+[26-Dec-2018 11:48:29 UTC] PHP Parse error:  syntax error, unexpected ''s' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 69
+[26-Dec-2018 13:00:30 UTC] PHP Parse error:  syntax error, unexpected ''s' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 69
+[27-Dec-2018 05:50:48 UTC] PHP Fatal error:  Call to a member function counter() on null in /home/rayaztechnew/public_html/project/finance/application/views/admin/item_display.php on line 78
+[27-Dec-2018 05:58:03 UTC] PHP Fatal error:  Call to a member function counter() on null in /home/rayaztechnew/public_html/project/finance/application/views/admin/item_display.php on line 78
+[27-Dec-2018 07:38:43 UTC] PHP Parse error:  syntax error, unexpected ''Tras' (T_ENCAPSED_AND_WHITESPACE) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 429
+[27-Dec-2018 08:18:18 UTC] PHP Parse error:  syntax error, unexpected ''remar' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 174
+[28-Dec-2018 07:50:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 429
+[28-Dec-2018 07:51:57 UTC] PHP Parse error:  syntax error, unexpected ''s' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 69
+[28-Dec-2018 08:10:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 426
+[28-Dec-2018 10:23:24 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 57
+[28-Dec-2018 10:26:24 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 57
+[28-Dec-2018 10:27:28 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 57
+[28-Dec-2018 10:28:10 UTC] PHP Fatal error:  Call to a member function from() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 58
+[28-Dec-2018 10:34:49 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 57
+[28-Dec-2018 10:36:52 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 57
+[28-Dec-2018 11:10:00 UTC] PHP Fatal error:  Call to a member function selectdata() on null in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_display.php on line 8
+[28-Dec-2018 11:15:08 UTC] PHP Fatal error:  Call to a member function selectdata() on null in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_display.php on line 8
+[29-Dec-2018 07:48:09 UTC] PHP Fatal error:  Cannot redeclare Admin::replace_pymt_create() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 434
+[29-Dec-2018 07:48:11 UTC] PHP Fatal error:  Cannot redeclare Admin::replace_pymt_create() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 434
+[29-Dec-2018 07:48:12 UTC] PHP Fatal error:  Cannot redeclare Admin::replace_pymt_create() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 434
+[29-Dec-2018 07:48:13 UTC] PHP Fatal error:  Cannot redeclare Admin::replace_pymt_create() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 434
+[29-Dec-2018 09:16:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_loan.php on line 147
+[31-Dec-2018 07:14:55 UTC] PHP Fatal error:  Cannot access empty property in /home/rayaztechnew/public_html/project/finance/application/views/admin/ledger_display.php on line 81
+[31-Dec-2018 07:16:57 UTC] PHP Fatal error:  Cannot access empty property in /home/rayaztechnew/public_html/project/finance/application/views/admin/ledger_display.php on line 81
+[31-Dec-2018 07:17:16 UTC] PHP Fatal error:  Cannot access empty property in /home/rayaztechnew/public_html/project/finance/application/views/admin/ledger_display.php on line 81
+[31-Dec-2018 07:17:25 UTC] PHP Fatal error:  Cannot access empty property in /home/rayaztechnew/public_html/project/finance/application/views/admin/ledger_display.php on line 81
+[31-Dec-2018 07:18:02 UTC] PHP Fatal error:  Cannot access empty property in /home/rayaztechnew/public_html/project/finance/application/views/admin/ledger_display.php on line 81
+[31-Dec-2018 10:29:07 UTC] PHP Fatal error:  Call to undefined method financemodel::serach_loan() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 987
+[31-Dec-2018 10:29:25 UTC] PHP Fatal error:  Call to undefined method financemodel::serach_loan() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 987
+[31-Dec-2018 10:34:03 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::results() in /home/rayaztechnew/public_html/project/finance/application/models/Financemodel.php on line 62
+[02-Jan-2019 07:22:20 UTC] PHP Parse error:  syntax error, unexpected ''loan_' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 267
+[02-Jan-2019 11:43:29 UTC] PHP Fatal error:  Call to a member function selectdata() on null in /home/rayaztechnew/public_html/project/finance/application/views/admin/create_loan.php on line 7
+[02-Jan-2019 11:43:35 UTC] PHP Fatal error:  Call to a member function selectdata() on null in /home/rayaztechnew/public_html/project/finance/application/views/admin/create_loan.php on line 7
+[04-Jan-2019 11:02:36 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 173
+[05-Jan-2019 04:40:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rayaztechnew/public_html/project/finance/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[07-Jan-2019 05:32:56 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 20
+[07-Jan-2019 05:33:08 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 20
+[07-Jan-2019 06:47:13 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 62
+[07-Jan-2019 06:48:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 74
+[07-Jan-2019 06:48:43 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 62
+[07-Jan-2019 06:49:01 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 62
+[07-Jan-2019 06:49:09 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 62
+[07-Jan-2019 06:49:14 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 62
+[07-Jan-2019 06:50:06 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 62
+[07-Jan-2019 06:50:10 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 62
+[07-Jan-2019 06:55:30 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 61
+[07-Jan-2019 06:57:21 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 62
+[07-Jan-2019 07:00:41 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 62
+[07-Jan-2019 07:04:04 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 62
+[07-Jan-2019 07:05:04 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 62
+[07-Jan-2019 07:28:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 432
+[08-Jan-2019 10:23:59 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 181
+[08-Jan-2019 10:38:16 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 74
+[08-Jan-2019 10:38:51 UTC] PHP Fatal error:  Function name must be a string in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 342
+[08-Jan-2019 10:42:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/create_loan.php on line 190
+[08-Jan-2019 10:45:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1030
+[08-Jan-2019 11:16:37 UTC] PHP Parse error:  syntax error, unexpected ''per' (T_ENCAPSED_AND_WHITESPACE) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 364
+[08-Jan-2019 11:19:27 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 423
+[10-Jan-2019 07:07:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/edit_item.php on line 77
+[11-Jan-2019 10:01:25 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 74
+[11-Jan-2019 11:32:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1024
+[11-Jan-2019 12:10:03 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 923
+[19-Jan-2019 04:57:12 UTC] PHP Fatal error:  Function name must be a string in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1207
+[19-Jan-2019 04:58:02 UTC] PHP Fatal error:  Call to a member function format() on boolean in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1209
+[19-Jan-2019 05:04:27 UTC] PHP Fatal error:  Call to a member function format() on boolean in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1211
+[19-Jan-2019 05:27:00 UTC] PHP Fatal error:  Call to undefined function parseFloat() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1211
+[19-Jan-2019 05:27:14 UTC] PHP Fatal error:  Call to undefined function parseFloat() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1211
+[19-Jan-2019 05:27:28 UTC] PHP Fatal error:  Call to undefined function parseFloat() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1211
+[19-Jan-2019 08:47:36 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1300
+[19-Jan-2019 08:47:44 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1300
+[19-Jan-2019 08:58:27 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1300
+[21-Jan-2019 05:02:35 UTC] PHP Fatal error:  Cannot use [] for reading in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1255
+[21-Jan-2019 09:42:08 UTC] PHP Fatal error:  Call to undefined function json_encode1() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1271
+[21-Jan-2019 09:42:08 UTC] PHP Fatal error:  Call to undefined function json_encode1() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1271
+[21-Jan-2019 10:33:29 UTC] PHP Fatal error:  Call to undefined function sum() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1276
+[21-Jan-2019 10:33:29 UTC] PHP Fatal error:  Call to undefined function sum() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1276
+[21-Jan-2019 10:33:43 UTC] PHP Fatal error:  Call to undefined function sum() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1276
+[21-Jan-2019 10:33:43 UTC] PHP Fatal error:  Call to undefined function sum() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1276
+[21-Jan-2019 10:52:45 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::sum() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1276
+[21-Jan-2019 10:52:45 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::sum() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1276
+[21-Jan-2019 10:56:02 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1278
+[21-Jan-2019 10:56:02 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1278
+[21-Jan-2019 10:56:29 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1278
+[21-Jan-2019 10:56:29 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1278
+[21-Jan-2019 10:57:14 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1278
+[21-Jan-2019 10:57:15 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1278
+[21-Jan-2019 10:57:25 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1278
+[21-Jan-2019 10:57:25 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1278
+[21-Jan-2019 10:58:51 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1279
+[21-Jan-2019 10:58:51 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1279
+[21-Jan-2019 11:02:14 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1279
+[21-Jan-2019 11:02:14 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1279
+[21-Jan-2019 11:02:24 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1279
+[21-Jan-2019 11:02:24 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1279
+[21-Jan-2019 11:03:06 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1279
+[21-Jan-2019 11:03:06 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1279
+[21-Jan-2019 11:03:48 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1278
+[21-Jan-2019 11:03:48 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1278
+[21-Jan-2019 11:08:45 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1278
+[21-Jan-2019 11:08:45 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1278
+[21-Jan-2019 11:11:36 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1278
+[21-Jan-2019 11:11:36 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1278
+[21-Jan-2019 11:24:50 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1304
+[21-Jan-2019 11:24:50 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1304
+[21-Jan-2019 12:14:10 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1248
+[24-Jan-2019 11:32:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 624
+[24-Jan-2019 13:09:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rayaztechnew/public_html/project/finance/application/views/admin/replace_loan_display.php on line 81
+[25-Jan-2019 04:22:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 892
+[25-Jan-2019 07:13:04 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1576
+[25-Jan-2019 07:13:06 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1576
+[25-Jan-2019 07:13:08 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1576
+[25-Jan-2019 07:13:22 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1576
+[25-Jan-2019 07:51:30 UTC] PHP Fatal error:  Function name must be a string in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1528
+[25-Jan-2019 07:51:30 UTC] PHP Fatal error:  Function name must be a string in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1528
+[25-Jan-2019 08:06:32 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 368
+[25-Jan-2019 08:06:34 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 368
+[25-Jan-2019 08:07:09 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 368
+[25-Jan-2019 08:07:28 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 368
+[25-Jan-2019 08:16:01 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 368
+[25-Jan-2019 09:50:56 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1397
+[25-Jan-2019 09:50:56 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1397
+[25-Jan-2019 09:54:30 UTC] PHP Parse error:  syntax error, unexpected ''s' (T_ENCAPSED_AND_WHITESPACE) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1077
+[25-Jan-2019 10:55:11 UTC] PHP Parse error:  syntax error, unexpected ''party_name' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 179
+[26-Jan-2019 05:08:43 UTC] PHP Fatal error:  Call to undefined method stdClass::dep_amount() in /home/rayaztechnew/public_html/project/finance/application/views/admin/deposit_display.php on line 64
+[26-Jan-2019 05:11:01 UTC] PHP Fatal error:  Call to undefined function number_fromat() in /home/rayaztechnew/public_html/project/finance/application/views/admin/deposit_display.php on line 65
+[26-Jan-2019 07:01:11 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1384
+[26-Jan-2019 07:01:11 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1384
+[26-Jan-2019 07:01:17 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1384
+[26-Jan-2019 07:01:17 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1384
+[26-Jan-2019 07:01:22 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1384
+[26-Jan-2019 07:01:22 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1384
+[26-Jan-2019 07:01:41 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1384
+[26-Jan-2019 07:01:41 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1384
+[28-Jan-2019 04:43:58 UTC] PHP Parse error:  syntax error, unexpected ''party' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1561
+[28-Jan-2019 04:45:32 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1348
+[28-Jan-2019 04:45:34 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1348
+[28-Jan-2019 04:49:24 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1105
+[28-Jan-2019 04:50:32 UTC] PHP Fatal error:  Cannot use [] for reading in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1346
+[28-Jan-2019 04:50:34 UTC] PHP Fatal error:  Cannot use [] for reading in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1346
+[28-Jan-2019 04:52:22 UTC] PHP Fatal error:  Cannot use [] for reading in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1348
+[28-Jan-2019 05:17:20 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1138
+[28-Jan-2019 05:40:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_pending.php on line 50
+[28-Jan-2019 07:11:34 UTC] PHP Fatal error:  Class 'ClassRegistry' not found in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_pending.php on line 60
+[28-Jan-2019 07:31:50 UTC] PHP Fatal error:  Class 'ClassRegistry' not found in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_pending.php on line 60
+[28-Jan-2019 07:32:18 UTC] PHP Fatal error:  Class 'ClassRegistry' not found in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_pending.php on line 60
+[28-Jan-2019 07:58:43 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_pending.php on line 62
+[28-Jan-2019 07:58:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_pending.php on line 62
+[28-Jan-2019 07:59:42 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_pending.php on line 62
+[28-Jan-2019 07:59:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_pending.php on line 62
+[28-Jan-2019 08:05:14 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_pending.php on line 65
+[28-Jan-2019 08:05:58 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_pending.php on line 65
+[28-Jan-2019 08:10:51 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_pending.php on line 65
+[28-Jan-2019 08:11:43 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_pending.php on line 65
+[28-Jan-2019 08:18:09 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_pending.php on line 63
+[28-Jan-2019 08:34:45 UTC] PHP Fatal error:  Call to undefined function print_() in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_pending.php on line 53
+[28-Jan-2019 10:06:56 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_pending.php on line 58
+[28-Jan-2019 10:07:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_pending.php on line 58
+[29-Jan-2019 05:01:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_pending.php on line 48
+[29-Jan-2019 05:16:14 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_pending.php on line 46
+[29-Jan-2019 05:16:40 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_pending.php on line 46
+[29-Jan-2019 05:36:56 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_pending.php on line 48
+[29-Jan-2019 07:23:27 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_pending.php on line 45
+[29-Jan-2019 11:27:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 878
+[29-Jan-2019 12:05:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1667
+[29-Jan-2019 12:25:23 UTC] PHP Fatal error:  Function name must be a string in /home/rayaztechnew/public_html/project/finance/application/views/admin/voucher_create.php on line 64
+[31-Jan-2019 11:41:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 412
+[31-Jan-2019 11:42:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 412
+[01-Feb-2019 11:44:23 UTC] PHP Fatal error:  Cannot use [] for reading in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 729
+[01-Feb-2019 11:44:51 UTC] PHP Fatal error:  Cannot use [] for reading in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 729
+[01-Feb-2019 12:29:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1632
+[04-Feb-2019 04:26:08 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/rayaztechnew/public_html/project/finance/application/views/admin/daybook_display.php on line 43
+[04-Feb-2019 04:26:11 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/rayaztechnew/public_html/project/finance/application/views/admin/daybook_display.php on line 43
+[04-Feb-2019 05:15:13 UTC] PHP Fatal error:  Call to undefined function sum() in /home/rayaztechnew/public_html/project/finance/application/views/admin/daybook_display.php on line 52
+[04-Feb-2019 05:20:30 UTC] PHP Fatal error:  Call to undefined function select_sum() in /home/rayaztechnew/public_html/project/finance/application/views/admin/daybook_display.php on line 52
+[04-Feb-2019 05:34:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/daybook_display.php on line 113
+[04-Feb-2019 06:25:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/daybook_display.php on line 49
+[04-Feb-2019 11:42:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/daybook_display.php on line 161
+[05-Feb-2019 07:10:41 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/rayaztechnew/public_html/project/finance/application/views/admin/daybook_display.php on line 195
+[05-Feb-2019 08:03:09 UTC] PHP Parse error:  syntax error, unexpected ''replace_lo' (T_ENCAPSED_AND_WHITESPACE) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1725
+[05-Feb-2019 08:27:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1269
+[05-Feb-2019 10:57:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1780
+[07-Feb-2019 12:00:40 UTC] PHP Fatal error:  Call to undefined function nuber_format() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 50
+[08-Feb-2019 06:11:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 280
+[08-Feb-2019 07:10:31 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::group_by() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 46
+[08-Feb-2019 07:10:48 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::group() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 46
+[08-Feb-2019 07:11:43 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::groupby() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 46
+[08-Feb-2019 07:12:06 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::select_group() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 46
+[08-Feb-2019 07:18:08 UTC] PHP Fatal error:  Call to a member function find() on null in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 46
+[08-Feb-2019 07:18:32 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::find() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 46
+[08-Feb-2019 07:19:36 UTC] PHP Fatal error:  Cannot use object of type mysqli as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 54
+[08-Feb-2019 07:20:02 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 49
+[08-Feb-2019 11:00:16 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 56
+[08-Feb-2019 11:00:23 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 56
+[08-Feb-2019 11:35:27 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 56
+[08-Feb-2019 11:35:36 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 56
+[08-Feb-2019 11:40:16 UTC] PHP Fatal error:  Cannot use [] for reading in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 56
+[08-Feb-2019 11:40:18 UTC] PHP Fatal error:  Cannot use [] for reading in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 56
+[08-Feb-2019 11:40:29 UTC] PHP Fatal error:  Cannot use [] for reading in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 56
+[08-Feb-2019 11:44:11 UTC] PHP Fatal error:  Call to a member function selectRoundId_by_round() on null in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1765
+[08-Feb-2019 12:20:56 UTC] PHP Fatal error:  Call to undefined method stdClass::vch_date() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1772
+[08-Feb-2019 12:20:59 UTC] PHP Fatal error:  Call to undefined method stdClass::vch_date() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1772
+[08-Feb-2019 12:22:56 UTC] PHP Fatal error:  Call to undefined function vch_date() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1770
+[08-Feb-2019 12:23:46 UTC] PHP Fatal error:  Call to a member function date() on string in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1772
+[08-Feb-2019 12:23:49 UTC] PHP Fatal error:  Call to a member function date() on string in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1772
+[08-Feb-2019 12:46:44 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 51
+[08-Feb-2019 12:48:32 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 51
+[09-Feb-2019 04:54:54 UTC] PHP Parse error:  syntax error, unexpected ''smtp' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 68
+[11-Feb-2019 04:52:00 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 38
+[11-Feb-2019 04:52:07 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 38
+[11-Feb-2019 06:34:11 UTC] PHP Parse error:  syntax error, unexpected '$this->sessio' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 927
+[11-Feb-2019 13:07:42 UTC] PHP Fatal error:  Cannot redeclare Admin::delete_loan() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1844
+[11-Feb-2019 13:07:44 UTC] PHP Fatal error:  Cannot redeclare Admin::delete_loan() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1844
+[11-Feb-2019 13:30:46 UTC] PHP Parse error:  syntax error, unexpected ''admin/temp' (T_ENCAPSED_AND_WHITESPACE) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 254
+[11-Feb-2019 13:30:48 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or quoted-string and whitespace (T_ENCAPSED_AND_WHITESPACE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 896
+[11-Feb-2019 13:30:50 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1649
+[15-Feb-2019 06:41:40 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 57
+[15-Feb-2019 06:49:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 126
+[15-Feb-2019 06:49:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 126
+[15-Feb-2019 06:53:03 UTC] PHP Fatal error:  Call to undefined function pint_r() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 48
+[15-Feb-2019 06:58:17 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 50
+[15-Feb-2019 06:58:44 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 47
+[15-Feb-2019 06:59:00 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 47
+[15-Feb-2019 07:10:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 91
+[15-Feb-2019 07:12:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 92
+[15-Feb-2019 07:14:28 UTC] PHP Fatal error:  Cannot access empty property in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 57
+[15-Feb-2019 08:25:26 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 353
+[15-Feb-2019 10:24:33 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/views/admin/balance_sheet.php on line 56
+[15-Feb-2019 10:25:19 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/views/admin/balance_sheet.php on line 56
+[15-Feb-2019 10:29:42 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/views/admin/balance_sheet.php on line 96
+[15-Feb-2019 11:01:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/balance_sheet.php on line 121
+[16-Feb-2019 05:05:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/balance_sheet.php on line 124
+[16-Feb-2019 06:11:04 UTC] PHP Parse error:  syntax error, unexpected '("receip' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1499
+[22-Feb-2019 07:10:05 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 57
+[22-Feb-2019 07:20:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 852
+[22-Feb-2019 07:36:26 UTC] PHP Fatal error:  Cannot redeclare Admin::replaceloan_show_data() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1941
+[22-Feb-2019 09:07:36 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 52
+[22-Feb-2019 09:34:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 79
+[22-Feb-2019 09:39:22 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 60
+[23-Feb-2019 05:38:56 UTC] PHP Fatal error:  Call to undefined function month() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 64
+[23-Feb-2019 06:49:49 UTC] PHP Fatal error:  Call to undefined function MONTH() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 58
+[23-Feb-2019 07:01:18 UTC] PHP Fatal error:  Call to undefined function month() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 58
+[23-Feb-2019 07:14:09 UTC] PHP Fatal error:  Call to undefined function month() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 58
+[23-Feb-2019 07:17:24 UTC] PHP Fatal error:  Call to undefined function month() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 58
+[23-Feb-2019 07:17:40 UTC] PHP Fatal error:  Call to undefined function MONTH() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 58
+[23-Feb-2019 07:22:38 UTC] PHP Fatal error:  Call to undefined function month() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 58
+[23-Feb-2019 07:26:29 UTC] PHP Fatal error:  Call to undefined function month() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 58
+[23-Feb-2019 07:26:33 UTC] PHP Fatal error:  Call to undefined function month() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 58
+[23-Feb-2019 07:26:34 UTC] PHP Fatal error:  Call to undefined function month() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 58
+[23-Feb-2019 07:26:34 UTC] PHP Fatal error:  Call to undefined function month() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 58
+[23-Feb-2019 07:26:37 UTC] PHP Fatal error:  Call to undefined function month() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 58
+[23-Feb-2019 07:31:41 UTC] PHP Fatal error:  Call to undefined function month() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 58
+[23-Feb-2019 07:33:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 72
+[23-Feb-2019 07:33:40 UTC] PHP Fatal error:  Call to undefined function month() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 58
+[23-Feb-2019 07:40:29 UTC] PHP Fatal error:  Call to undefined function month() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 58
+[23-Feb-2019 07:42:35 UTC] PHP Fatal error:  Call to undefined function month() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 58
+[23-Feb-2019 07:42:35 UTC] PHP Fatal error:  Call to undefined function month() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 58
+[23-Feb-2019 07:42:38 UTC] PHP Fatal error:  Call to undefined function month() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 58
+[23-Feb-2019 07:42:42 UTC] PHP Fatal error:  Call to undefined function month() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 58
+[23-Feb-2019 07:48:23 UTC] PHP Fatal error:  Call to undefined function to_char() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 58
+[23-Feb-2019 07:53:35 UTC] PHP Fatal error:  Call to undefined function month() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 60
+[23-Feb-2019 08:18:13 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 60
+[23-Feb-2019 08:18:27 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 60
+[23-Feb-2019 08:24:04 UTC] PHP Fatal error:  Call to undefined function month() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 60
+[23-Feb-2019 08:59:26 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 67
+[25-Feb-2019 06:37:46 UTC] PHP Fatal error:  Call to undefined method CI_Loader::select_sum() in /home/rayaztechnew/public_html/project/finance/application/views/admin/balance_sheet.php on line 110
+[25-Feb-2019 06:37:57 UTC] PHP Fatal error:  Call to undefined method CI_Loader::select_sum() in /home/rayaztechnew/public_html/project/finance/application/views/admin/balance_sheet.php on line 110
+[25-Feb-2019 07:01:35 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/views/admin/balance_sheet.php on line 102
+[25-Feb-2019 10:31:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 791
+[25-Feb-2019 11:44:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/profit_loss.php on line 211
+[25-Feb-2019 11:44:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/profit_loss.php on line 211
+[28-Feb-2019 12:25:51 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1943
+[28-Feb-2019 12:25:51 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1943
+[28-Feb-2019 12:34:48 UTC] PHP Fatal error:  Function name must be a string in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1948
+[28-Feb-2019 13:28:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 95
+[28-Feb-2019 13:28:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 95
+[01-Mar-2019 05:58:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 132
+[01-Mar-2019 06:01:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 123
+[01-Mar-2019 06:01:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 123
+[01-Mar-2019 06:25:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1784
+[01-Mar-2019 07:39:39 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 92
+[01-Mar-2019 07:50:38 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 95
+[01-Mar-2019 07:51:20 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 95
+[01-Mar-2019 08:07:29 UTC] PHP Fatal error:  Call to a member function fetchtable() on null in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 94
+[01-Mar-2019 08:07:47 UTC] PHP Fatal error:  Call to a member function fetchtable() on null in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 94
+[01-Mar-2019 08:20:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 119
+[01-Mar-2019 10:21:06 UTC] PHP Fatal error:  Call to a member function group_by() on array in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1872
+[01-Mar-2019 10:21:09 UTC] PHP Fatal error:  Call to a member function group_by() on array in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1872
+[01-Mar-2019 10:45:19 UTC] PHP Fatal error:  Call to undefined function month() in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 86
+[01-Mar-2019 10:45:42 UTC] PHP Fatal error:  Call to undefined function MONTH() in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 86
+[01-Mar-2019 10:47:55 UTC] PHP Fatal error:  Call to undefined function month() in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 86
+[01-Mar-2019 11:12:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 116
+[01-Mar-2019 11:12:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 116
+[01-Mar-2019 11:13:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 116
+[01-Mar-2019 11:18:02 UTC] PHP Fatal error:  Call to undefined function month() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1870
+[06-Mar-2019 12:16:49 UTC] PHP Fatal error:  Call to undefined method stdClass::strtotime() in /home/rayaztechnew/public_html/project/finance/application/views/admin/edit_receipt.php on line 61
+[06-Mar-2019 12:17:47 UTC] PHP Fatal error:  Call to undefined method stdClass::strtotime() in /home/rayaztechnew/public_html/project/finance/application/views/admin/edit_receipt.php on line 61
+[06-Mar-2019 12:18:16 UTC] PHP Fatal error:  Call to undefined method stdClass::strtotime() in /home/rayaztechnew/public_html/project/finance/application/views/admin/edit_receipt.php on line 61
+[06-Mar-2019 12:18:38 UTC] PHP Fatal error:  Call to undefined method stdClass::strtotime() in /home/rayaztechnew/public_html/project/finance/application/views/admin/edit_receipt.php on line 61
+[06-Mar-2019 12:18:53 UTC] PHP Fatal error:  Call to undefined method stdClass::strtotime() in /home/rayaztechnew/public_html/project/finance/application/views/admin/edit_receipt.php on line 61
+[07-Mar-2019 04:55:32 UTC] PHP Parse error:  syntax error, unexpected ''error', 'Error');' (T_ENCAPSED_AND_WHITESPACE) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1625
+[07-Mar-2019 05:06:00 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/edit_voucher.php on line 105
+[07-Mar-2019 05:17:23 UTC] PHP Fatal error:  Call to undefined function syttotime() in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_voucher.php on line 60
+[07-Mar-2019 05:45:45 UTC] PHP Parse error:  syntax error, unexpected '$this->db->wh' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2268
+[07-Mar-2019 07:22:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1403
+[07-Mar-2019 08:03:08 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/profit_loss_detail.php on line 51
+[07-Mar-2019 08:37:45 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rayaztechnew/public_html/project/finance/application/views/admin/profit_loss_detail.php on line 90
+[07-Mar-2019 09:35:40 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/profit_loss_detail.php on line 86
+[07-Mar-2019 09:39:29 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/profit_loss_detail.php on line 90
+[08-Mar-2019 05:16:25 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 80
+[11-Mar-2019 05:00:35 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_details.php on line 75
+[11-Mar-2019 06:45:50 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/voucher_display.php on line 64
+[11-Mar-2019 06:46:58 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/voucher_display.php on line 64
+[11-Mar-2019 06:58:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 351
+[11-Mar-2019 09:47:06 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/profit_loss_detail.php on line 62
+[11-Mar-2019 10:14:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 133
+[11-Mar-2019 10:14:27 UTC] PHP Parse error:  syntax error, unexpected ''refresh' (T_ENCAPSED_AND_WHITESPACE) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2323
+[11-Mar-2019 10:14:28 UTC] PHP Parse error:  syntax error, unexpected ''refresh' (T_ENCAPSED_AND_WHITESPACE) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2323
+[11-Mar-2019 10:14:30 UTC] PHP Parse error:  syntax error, unexpected ''refresh' (T_ENCAPSED_AND_WHITESPACE) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2323
+[11-Mar-2019 10:15:10 UTC] PHP Parse error:  syntax error, unexpected ''refresh' (T_ENCAPSED_AND_WHITESPACE) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2323
+[11-Mar-2019 10:36:46 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rayaztechnew/public_html/project/finance/application/views/admin/profit_loss_detail.php on line 242
+[11-Mar-2019 10:36:53 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rayaztechnew/public_html/project/finance/application/views/admin/profit_loss_detail.php on line 242
+[11-Mar-2019 12:29:52 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rayaztechnew/public_html/project/finance/application/views/admin/profit_loss_detail.php on line 380
+[11-Mar-2019 12:29:56 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rayaztechnew/public_html/project/finance/application/views/admin/profit_loss_detail.php on line 380
+[11-Mar-2019 12:30:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/rayaztechnew/public_html/project/finance/application/views/admin/profit_loss_detail.php on line 380
+[11-Mar-2019 12:51:06 UTC] PHP Parse error:  syntax error, unexpected ''admin_' (T_ENCAPSED_AND_WHITESPACE) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1928
+[11-Mar-2019 13:30:56 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/day_report.php on line 348
+[12-Mar-2019 04:29:09 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2405
+[12-Mar-2019 04:29:15 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2405
+[12-Mar-2019 04:46:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 270
+[12-Mar-2019 04:46:57 UTC] PHP Parse error:  syntax error, unexpected ''result' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1870
+[12-Mar-2019 10:19:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 351
+[12-Mar-2019 11:14:28 UTC] PHP Parse error:  syntax error, unexpected ''use' (T_ENCAPSED_AND_WHITESPACE) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2373
+[12-Mar-2019 11:14:30 UTC] PHP Parse error:  syntax error, unexpected ''ban' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2461
+[12-Mar-2019 11:14:32 UTC] PHP Parse error:  syntax error, unexpected ''ban' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2461
+[12-Mar-2019 11:14:34 UTC] PHP Parse error:  syntax error, unexpected ''ban' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2461
+[12-Mar-2019 11:14:34 UTC] PHP Parse error:  syntax error, unexpected ''ban' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2461
+[12-Mar-2019 11:14:35 UTC] PHP Parse error:  syntax error, unexpected ''ban' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2461
+[12-Mar-2019 11:14:48 UTC] PHP Parse error:  syntax error, unexpected ''ban' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2461
+[12-Mar-2019 11:14:49 UTC] PHP Parse error:  syntax error, unexpected ''ban' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2461
+[12-Mar-2019 11:14:56 UTC] PHP Parse error:  syntax error, unexpected ''ban' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2461
+[12-Mar-2019 11:14:57 UTC] PHP Parse error:  syntax error, unexpected ''ban' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2461
+[12-Mar-2019 11:14:58 UTC] PHP Parse error:  syntax error, unexpected ''ban' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2461
+[12-Mar-2019 11:14:59 UTC] PHP Parse error:  syntax error, unexpected ''ban' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2461
+[12-Mar-2019 11:20:36 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::group_by() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2290
+[12-Mar-2019 11:20:39 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::group_by() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2290
+[12-Mar-2019 11:31:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 211
+[12-Mar-2019 11:31:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2223
+[12-Mar-2019 12:23:57 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::array_merge() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2291
+[12-Mar-2019 12:24:00 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::array_merge() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2291
+[12-Mar-2019 12:24:02 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::array_merge() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2291
+[12-Mar-2019 12:24:14 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::array_merge() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2291
+[12-Mar-2019 12:24:27 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::array_merge() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2291
+[14-Mar-2019 07:32:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/profit_loss.php on line 79
+[14-Mar-2019 08:31:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1283
+[16-Mar-2019 08:56:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_vch_details.php on line 124
+[18-Mar-2019 05:28:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rayaztechnew/public_html/project/finance/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[18-Mar-2019 05:31:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 214
+[18-Mar-2019 05:31:39 UTC] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1919
+[18-Mar-2019 07:18:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2241
+[18-Mar-2019 08:14:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 133
+[18-Mar-2019 08:38:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2384
+[18-Mar-2019 11:11:26 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/loan_display.php on line 67
+[18-Mar-2019 11:15:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/daybook_display.php on line 322
+[18-Mar-2019 11:50:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2321
+[19-Mar-2019 04:40:53 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_vch_details.php on line 66
+[19-Mar-2019 04:50:54 UTC] PHP Fatal error:  Call to undefined function MONTH() in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_vch_details.php on line 68
+[19-Mar-2019 05:04:47 UTC] PHP Fatal error:  Call to undefined function strtodate() in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_vch_details.php on line 59
+[19-Mar-2019 05:22:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2321
+[19-Mar-2019 05:22:56 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_vch_details.php on line 62
+[19-Mar-2019 08:13:38 UTC] PHP Parse error:  syntax error, unexpected ''financemodel' (T_ENCAPSED_AND_WHITESPACE) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1607
+[20-Mar-2019 07:08:45 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 107
+[20-Mar-2019 07:38:53 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rayaztechnew/public_html/project/finance/application/views/admin/day_report.php on line 369
+[20-Mar-2019 08:24:30 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rayaztechnew/public_html/project/finance/application/views/admin/day_report.php on line 603
+[20-Mar-2019 08:47:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1637
+[20-Mar-2019 11:10:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/daybook_display.php on line 82
+[23-Mar-2019 07:38:04 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_vch_details.php on line 34
+[25-Mar-2019 06:43:40 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rayaztechnew/public_html/project/finance/application/views/admin/day_report.php on line 608
+[25-Mar-2019 07:29:51 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/rayaztechnew/public_html/project/finance/application/views/admin/balance_sheet.php on line 126
+[25-Mar-2019 07:30:28 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rayaztechnew/public_html/project/finance/application/views/admin/balance_sheet.php on line 54
+[25-Mar-2019 08:19:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1817
+[25-Mar-2019 08:24:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2696
+[25-Mar-2019 08:24:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2696
+[25-Mar-2019 08:24:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2696
+[25-Mar-2019 08:30:46 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 108
+[25-Mar-2019 08:30:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 948
+[25-Mar-2019 08:30:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1572
+[25-Mar-2019 08:30:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2351
+[25-Mar-2019 08:42:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rayaztechnew/public_html/project/finance/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[25-Mar-2019 08:58:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2472
+[25-Mar-2019 10:15:21 UTC] PHP Parse error:  syntax error, unexpected ''admin/' (T_ENCAPSED_AND_WHITESPACE) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 865
+[25-Mar-2019 10:15:23 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 160
+[25-Mar-2019 10:19:09 UTC] PHP Parse error:  syntax error, unexpected ''item' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1441
+[25-Mar-2019 10:19:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2693
+[25-Mar-2019 10:37:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2375
+[25-Mar-2019 10:38:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2144
+[25-Mar-2019 10:38:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2720
+[25-Mar-2019 10:38:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2720
+[25-Mar-2019 10:38:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2720
+[25-Mar-2019 10:38:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2720
+[25-Mar-2019 10:38:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2720
+[25-Mar-2019 10:38:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2720
+[25-Mar-2019 10:38:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2720
+[25-Mar-2019 10:38:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2720
+[25-Mar-2019 10:38:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2720
+[25-Mar-2019 10:51:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1915
+[25-Mar-2019 10:57:02 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 160
+[25-Mar-2019 11:50:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_vch_details.php on line 191
+[25-Mar-2019 12:14:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1033
+[25-Mar-2019 12:25:41 UTC] PHP Parse error:  syntax error, unexpected ''pre_b' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 413
+[25-Mar-2019 12:36:19 UTC] PHP Parse error:  syntax error, unexpected ''detail' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1818
+[25-Mar-2019 12:39:00 UTC] PHP Parse error:  syntax error, unexpected ''pre_b' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 413
+[25-Mar-2019 12:57:26 UTC] PHP Parse error:  syntax error, unexpected ''(SELECT `pymt_date` AS DATES,' (T_ENCAPSED_AND_WHITESPACE) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2441
+[25-Mar-2019 13:16:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rayaztechnew/public_html/project/finance/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[26-Mar-2019 05:56:28 UTC] PHP Fatal error:  Call to undefined function r() in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 191
+[26-Mar-2019 10:00:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 948
+[26-Mar-2019 10:00:08 UTC] PHP Parse error:  syntax error, unexpected ' ' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2194
+[26-Mar-2019 10:00:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2819
+[26-Mar-2019 10:04:06 UTC] PHP Parse error:  syntax error, unexpected ''pre_b' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 413
+[26-Mar-2019 10:04:08 UTC] PHP Parse error:  syntax error, unexpected 'public', expecting function (T_FUNCTION) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2818
+[26-Mar-2019 10:10:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/day_report.php on line 320
+[26-Mar-2019 11:15:39 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rayaztechnew/public_html/project/finance/application/views/admin/profit_loss.php on line 66
+[26-Mar-2019 11:15:44 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rayaztechnew/public_html/project/finance/application/views/admin/profit_loss.php on line 66
+[26-Mar-2019 11:15:47 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rayaztechnew/public_html/project/finance/application/views/admin/profit_loss.php on line 66
+[28-Mar-2019 09:45:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rayaztechnew/public_html/project/finance/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[28-Mar-2019 11:05:03 UTC] PHP Fatal error:  Call to undefined method CI_Loader::daybook_balance() in /home/rayaztechnew/public_html/project/finance/application/views/admin/daybook_display.php on line 68
+[28-Mar-2019 11:06:21 UTC] PHP Fatal error:  Call to undefined method CI_Loader::daybook_balance() in /home/rayaztechnew/public_html/project/finance/application/views/admin/daybook_display.php on line 68
+[28-Mar-2019 11:07:08 UTC] PHP Fatal error:  Call to undefined method CI_Loader::daybook_balance() in /home/rayaztechnew/public_html/project/finance/application/views/admin/daybook_display.php on line 68
+[28-Mar-2019 11:09:51 UTC] PHP Fatal error:  Call to undefined method CI_Loader::daybook_balance() in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1176
+[28-Mar-2019 11:10:06 UTC] PHP Fatal error:  Allowed memory size of 251658240 bytes exhausted (tried to allocate 130968 bytes) in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1176
+[28-Mar-2019 11:12:31 UTC] PHP Fatal error:  Allowed memory size of 251658240 bytes exhausted (tried to allocate 130968 bytes) in /home/rayaztechnew/public_html/project/finance/system/core/Loader.php on line 1174
+[28-Mar-2019 11:13:46 UTC] PHP Fatal error:  Allowed memory size of 251658240 bytes exhausted (tried to allocate 130968 bytes) in /home/rayaztechnew/public_html/project/finance/system/core/Loader.php on line 1174
+[28-Mar-2019 11:14:14 UTC] PHP Fatal error:  Allowed memory size of 251658240 bytes exhausted (tried to allocate 130968 bytes) in /home/rayaztechnew/public_html/project/finance/system/core/Loader.php on line 1174
+[28-Mar-2019 11:17:16 UTC] PHP Fatal error:  Allowed memory size of 251658240 bytes exhausted (tried to allocate 130968 bytes) in /home/rayaztechnew/public_html/project/finance/system/core/Loader.php on line 1174
+[28-Mar-2019 11:19:15 UTC] PHP Fatal error:  Allowed memory size of 251658240 bytes exhausted (tried to allocate 130968 bytes) in /home/rayaztechnew/public_html/project/finance/system/core/Loader.php on line 1174
+[28-Mar-2019 12:20:41 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rayaztechnew/public_html/project/finance/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[28-Mar-2019 12:21:11 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rayaztechnew/public_html/project/finance/system/libraries/Session/drivers/Session_files_driver.php on line 421
+[28-Mar-2019 12:42:20 UTC] PHP Fatal error:  Unsupported operand types in /home/rayaztechnew/public_html/project/finance/application/views/admin/trialbalance.php on line 146
+[29-Mar-2019 06:57:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/rayaztechnew/public_html/project/finance/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[29-Mar-2019 07:53:10 UTC] PHP Fatal error:  Call to undefined function empyt() in /home/rayaztechnew/public_html/project/finance/application/views/admin/day_report.php on line 254
+[29-Mar-2019 07:56:16 UTC] PHP Fatal error:  Call to undefined function empyt() in /home/rayaztechnew/public_html/project/finance/application/views/admin/day_report.php on line 254
+[29-Mar-2019 08:28:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/rayaztechnew/public_html/project/finance/application/views/admin/day_report.php on line 267
+[29-Mar-2019 08:47:07 UTC] PHP Fatal error:  Call to a member function select() on null in /home/rayaztechnew/public_html/project/finance/application/views/admin/profit_loss_detail.php on line 169
+[29-Mar-2019 08:47:19 UTC] PHP Fatal error:  Call to a member function select() on null in /home/rayaztechnew/public_html/project/finance/application/views/admin/profit_loss_detail.php on line 169
+[29-Mar-2019 08:47:24 UTC] PHP Fatal error:  Call to a member function select() on null in /home/rayaztechnew/public_html/project/finance/application/views/admin/profit_loss_detail.php on line 169
+[29-Mar-2019 08:47:53 UTC] PHP Fatal error:  Call to undefined method CI_Loader::select_sum() in /home/rayaztechnew/public_html/project/finance/application/views/admin/profit_loss_detail.php on line 169
+[29-Mar-2019 09:07:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/day_report.php on line 177
+[29-Mar-2019 10:39:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/views/admin/view_vch_details.php on line 47
+[29-Mar-2019 10:39:29 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 1825
+[29-Mar-2019 10:49:44 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 419
+[29-Mar-2019 10:53:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 583
+[29-Mar-2019 10:53:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2645
+[29-Mar-2019 10:53:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 2753
+[29-Mar-2019 10:55:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rayaztechnew/public_html/project/finance/application/controllers/Admin.php on line 182
